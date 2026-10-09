@@ -241,44 +241,14 @@ Based on the analysis, the following actions could help improve performance:
 - **Monitor Repeated Underperformance:** Track regions and categories that remain below target across multiple months.
 - **Track Multiple KPIs:** Review sales, orders and units together instead of relying only on revenue achievement.
 
-## 12. Project Files
 
-The repository contains the SQL analysis files, screenshots and supporting documentation.
-
-```text
-Sales-Target-vs-Actual-Analysis-Ecommerce/
-│
-├── README.md
-│
-├── sql/
-│   ├── 01_target_vs_actual_monthly.sql
-│   ├── 02_target_vs_actual_region.sql
-│   ├── 03_target_vs_actual_category.sql
-│   ├── 04_target_achievement_analysis.sql
-│   ├── 05_underperformance_analysis.sql
-│   └── 06_target_performance_summary.sql
-│
-├── screenshots/
-│   ├── 01_target_overview.png
-│   ├── 02_region_performance.png
-│   ├── 03_category_performance.png
-│   ├── 04_data_model.png
-│   └── 05_sql_final_output.png
-│
-└── docs/
-    ├── database_architecture.png
-    └── target_analysis_flow.png
-```
-
-*Note: This structure represents the planned repository layout. Keep only the files and folders that are actually uploaded to GitHub.*
-
-## 13. Conclusion
+## 12. Conclusion
 
 This project helped me analyze sales target performance using SQL and present the results through Power BI. By combining sales, order, unit, regional and category-level analysis, I was able to identify performance gaps and areas that need closer attention.
 
 The project demonstrates my ability to work with a relational database, write business-focused SQL queries, build a Power BI data model, create DAX measures and turn analytical results into a business report.
 
-## 14. Project Screenshots
+## 13. Project Screenshots
 
 ### Dashboard — Target Overview
 
